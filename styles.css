@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(224, 250, 241);}
+h1 {
+    color:rgb(82, 82, 82);
+    text-align: center;
+    font-size: 36px;            }
+h2 {
+    color: rgb(122, 122, 122);
+    border-bottom: 2px solid ;         
+    text-decoration:underline;
+    font-size: 28px;            }
+.destacado {
+    background-color: yellowgreen;}
+#subrayar{
+    text-decoration:underline;
+}
